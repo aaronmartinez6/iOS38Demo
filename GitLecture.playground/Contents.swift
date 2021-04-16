@@ -1,6 +1,19 @@
 import UIKit
 
-var str = "Hello, playground"
+let str = "Hello, iOS39"
+
+
+
+
+func doSomethingAwesome() {
+    print("I did it!")
+}
+
+
+
+
+
+
 
 // Day 5 : Afternoon Lecture Git by Srom Martinez
 /*
